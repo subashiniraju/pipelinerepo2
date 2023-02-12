@@ -1,4 +1,4 @@
 resource "azurerm_resource_group" "Bpline" {
-  name     = "pipelinerg1"
-  location = "West Europe"
+  name     = var.rgname
+  location = var.loc
 }
