@@ -1,2 +1,2 @@
-rgname = "rg1"
+rgname = "Rg"
 loc = "west us"
